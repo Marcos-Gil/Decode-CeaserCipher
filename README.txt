@@ -14,5 +14,5 @@ CeaserDecoding.py
 Launching instructions:
 -----------------------
 
-1. Open terminal and traverse to folder when CeaserDecoding.py is located
+1. Open terminal and traverse to folder where CeaserDecoding.py is located
 2. Run CeaserDecoding.py and follow instructions
